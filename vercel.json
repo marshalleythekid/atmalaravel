@@ -7,8 +7,8 @@
     },
     "routes": [
         {
-            "src": "/assets/images/*/(.*)",
-            "dest": "public/assets/images/*"
+            "src": "/assets/gambar/*/(.*)",
+            "dest": "public/assets/gambar/*"
         },
         {
             "src": "/assets/*/(.*)",
