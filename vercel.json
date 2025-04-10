@@ -7,8 +7,28 @@
     },
     "routes": [
         {
-            "src": "/assets/gambar/*/(.*)",
-            "dest": "public/assets/gambar/*"
+            "src": "/assets/maps/*/(.*)",
+            "dest": "public/assets/maps/*"
+        },
+        {
+            "src": "/assets/fonts/*/(.*)",
+            "dest": "public/assets/font/*"
+        },
+        {
+            "src": "/assets/scss/*/(.*)",
+            "dest": "public/assets/scss/*"
+        },
+        {
+            "src": "/assets/js/*/(.*)",
+            "dest": "public/assets/js/*"
+        },
+        {
+            "src": "/assets/images/*/(.*)",
+            "dest": "public/assets/images/*"
+        },
+        {
+            "src": "/assets/css/*/(.*)",
+            "dest": "public/assets/css/*"
         },
         {
             "src": "/assets/*/(.*)",
