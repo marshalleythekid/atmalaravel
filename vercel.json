@@ -19,7 +19,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://example-atomik.vercel.app/",
+        "APP_URL": "https://atmalaravel.vercel.app/",
         "APP_KEY": "base64:jXsoxYxBCpxvLxbpkhOA4pJBCZveeyQVS9z7bXRZRo4=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
