@@ -538,7 +538,7 @@ body {
   line-height: var(--line-height-b2);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: var(--font-secondary);
+  font-family: var(--secondary-font);
   color: var(--color-body);
   font-weight: var(--p-regular);
   background-color: var(--color-bg-1);
