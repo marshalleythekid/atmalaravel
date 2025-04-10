@@ -7,14 +7,6 @@
     },
     "routes": [
         {
-            "src": "/assets/css/plugins/(.*)",
-            "dest": "public/assets/css/plugins"
-        },
-        {
-            "src": "/assets/css/vendor/(.*)",
-            "dest": "public/assets/css/vendor"
-        },
-        {
             "src": "/assets/css/(.*)",
             "dest": "public/assets/css/"
         },
