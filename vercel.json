@@ -7,32 +7,8 @@
     },
     "routes": [
         {
-            "src": "/assets/js/(.*)",
-            "dest": "public/assets/js"
-        },
-        {
-            "src": "/assets/js/vendor(.*)",
-            "dest": "public/assets/js/vendor"
-        },
-        {
-            "src": "/assets/fonts/(.*)",
-            "dest": "public/assets/fonts"
-        },
-        {
-            "src": "/assets/Images/(.*)",
-            "dest": "public/assets/Images"
-        },
-        {
-            "src": "/assets/css/plugins/(.*)",
-            "dest": "public/assets/css/plugins"
-        },
-        {
-            "src": "/assets/css/vendor/(.*)",
-            "dest": "public/assets/css/vendor"
-        },
-        {
-            "src": "/assets/css/(.*)",
-            "dest": "public/assets/css/"
+            "src": "/assets/*/(.*)",
+            "dest": "public/assets/*"
         },
         {
             "src": "/(.*)",
