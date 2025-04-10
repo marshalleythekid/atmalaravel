@@ -18848,7 +18848,7 @@ iframe {
     Slider Style One  
 -------------------------*/
 .slider-style-1 .inner .subtitle {
-  font-family: var(--font-primary);
+  font-family: var(--secondary-font);
   font-size: 18px;
   letter-spacing: 0.5px;
   display: block;
@@ -18884,7 +18884,7 @@ iframe {
   margin-bottom: 0;
 }
 .slider-style-1 .inner .description {
-  font-family: var(--font-primary);
+  font-family: var(--secondary-font);
   padding: 0 22%;
   font-size: 24px;
   line-height: 1.7;
