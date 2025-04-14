@@ -31,8 +31,8 @@
                                     <li><a href="#">Pages</a></li>
                                     <li><a href="/pages/blog">Blog</a></li>
                                     <li><a href="/pages/contact">Contact</a></li>
-                                    <li><a href="/utilize">How to use</a></li>
-                                    <li><a href="/roadmap">Roadmap</a></li>
+                                    <li><a href="/utilize">Contact</a></li>
+                                    <li><a href="/roadmap">Product</a></li>
                                 </ul>
                             </div>
                         </div>

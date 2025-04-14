@@ -52,7 +52,7 @@
                                 </li>
                                 <li>
                                     <a tabindex="-1" class="disabled"
-                                        aria-disabled="true"href="{{ route('tools.audio.generator') }}">
+                                        aria-disabled="true" href="{{ route('tools.audio.generator') }}">
                                         <span>Audio Generator</span>
                                         <div class="rainbow-badge-card badge-sm ml--5">COMING</div>
                                     </a>
@@ -259,8 +259,8 @@
                                 </div>
                             </div>
                         </li>
-                        <li><a href="{{ route('pages.roadmap') }}">Roadmap</a></li>
-                        <li><a href="{{ route('pages.how.to.use') }}">How to use</a></li>
+                        <li><a href="{{ route('pages.roadmap') }}">Product</a></li>
+                        <li><a href="{{ route('pages.how.to.use') }}">Contact</a></li>
                     </ul>
 
                     <div class="rbt-sm-separator"></div>
@@ -283,7 +283,7 @@
                                 <li>
                                     <a href="{{ route('tools.text.generator') }}">
                                         <img
-                                            src="{{ asset('assets/images/generator-icon/text.png') }}"alt="AI Generator">
+                                            src="{{ asset('assets/images/generator-icon/text.png') }}" alt="AI Generator">
                                         <span>Text Generator</span>
                                     </a>
                                 </li>

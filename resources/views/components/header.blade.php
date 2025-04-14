@@ -261,8 +261,8 @@
                                 </div>
                             </div>
                         </li>
-                        <li><a href="{{ route('pages.roadmap') }}">Roadmap</a></li>
-                        <li><a href="{{ route('pages.how.to.use') }}">How to use</a></li>
+                        <li><a href="{{ route('pages.roadmap') }}">Product</a></li>
+                        <li><a href="{{ route('pages.how.to.use') }}">Contact</a></li>
                     </ul>
                 </nav>
             </div>
