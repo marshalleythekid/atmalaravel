@@ -239,20 +239,20 @@
                             </div>
                             <div class="app-store-btn">
                                 <a class="store-btn" href="#">
-                                    <img src="/static/images/cta-img/play-app.png" alt="Play Store Button">
+                                    <img src="{{ asset('assets/images/brand/play-app.png') }}" alt="Play Store Button">
                                 </a>
                                 <a class="store-btn" href="#">
-                                    <img src="/static/images/cta-img/apple-app.png" alt="Apple Store Button">
+                                    <img src="{{ asset('assets/images/brand/apple-app.png') }}" alt="Apple Store Button">
                                 </a>
                             </div>
                         </div>
                         <div class="content-right">
                             <div class="img-right">
-                                <img src="/static/images/cta-img/view-img.png" alt="Mobile View">
+                                <img src="{{ asset('assets/images/brand/view-img.png') }}" alt="Mobile View">
                             </div>
                         </div>
                         <div class="bg-shape-one">
-                            <img src="/static/images/cta-img/bg-shape.png" alt="Bg shape">
+                            <img src="{{ asset('assets/images/brand/bg-shape.png') }}" alt="Bg shape">
                         </div>
                     </div>
                 </div>
