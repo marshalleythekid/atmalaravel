@@ -1,4 +1,4 @@
-@extends('layouts.app3')
+@extends('layouts.app2')
 <!-- Start Roadmap Area  -->
 <div class="roadmap-section rainbow-section-gap-big rainbow-section-gapBottom">
     <div class="container">
