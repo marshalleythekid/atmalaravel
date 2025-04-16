@@ -1,4 +1,13 @@
 @extends('layouts.app2')
+<div class="preloader">
+    <div class='loader'>
+        <div class='circle'></div>
+        <div class='circle'></div>
+        <div class='circle'></div>
+        <div class='circle'></div>
+        <div class='circle'></div>
+    </div>
+</div>
 <!-- Start Roadmap Area  -->
 <div class="roadmap-section rainbow-section-gap-big rainbow-section-gapBottom">
     <div class="container">
