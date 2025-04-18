@@ -8,6 +8,7 @@
 <body>
     <main class="page-wrapper">
         <!-- Header -->
+        <x-promohead />
         <x-header />
         <x-mobileNav />
         <x-promohead />
