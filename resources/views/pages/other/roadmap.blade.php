@@ -1,4 +1,9 @@
 @extends('layouts.app')
+@section('title')
+Home
+@endsection
+
+@section('content')
 <div class="preloader">
     <div class='loader'>
         <div class='circle'></div>
@@ -269,3 +274,4 @@
         </div>
     </div>
 </div>
+@endsection
