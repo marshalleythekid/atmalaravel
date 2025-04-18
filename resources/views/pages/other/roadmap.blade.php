@@ -16,7 +16,25 @@ Home
 <!-- Start Roadmap Area  -->
 <div class="roadmap-section rainbow-section-gap-big rainbow-section-gapBottom">
     <div class="container">
-
+        <div class="main-content">
+            <!-- Start Breadcarumb area  -->
+            <div class="breadcrumb-area breadcarumb-style-1 pt--180 pb--100">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="breadcrumb-inner text-center">
+                                <h3 class="title h3">Roadmap</h3>
+                                <ul class="page-list">
+                                    <li class="rainbow-breadcrumb-item"><a href="/">Home</a></li>
+                                    <li class="rainbow-breadcrumb-item active">Roadmap</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Breadcarumb area  -->
+        </div>
         <!-- // 1.5.0 -->
         <div class="row changelog_info" id="v120">
             <div class="col-lg-3 changelog_date">
