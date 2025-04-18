@@ -1,4 +1,4 @@
-@extends('layouts.app2')
+@extends('layouts.app')
 <div class="preloader">
     <div class='loader'>
         <div class='circle'></div>
