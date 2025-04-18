@@ -10,7 +10,7 @@
         <!-- Header -->
         <x-header />
         <x-mobileNav />
-
+        <x-promohead />
         @yield('content')
         <!-- footer -->
         <x-footer />
