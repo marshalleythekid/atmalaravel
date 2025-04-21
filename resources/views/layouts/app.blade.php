@@ -6,12 +6,11 @@
 </head>
 
 <body>
+    <x-promohead />
     <main class="page-wrapper">
         <!-- Header -->
-
         <x-header />
         <x-mobileNav />
-        <x-promohead />
         @yield('content')
         <!-- footer -->
         <x-footer />
