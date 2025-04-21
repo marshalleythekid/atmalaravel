@@ -11,7 +11,7 @@
 
         <x-header />
         <x-mobileNav />
-        <x-promohead />
+        <x-breadcrumb />
         @yield('content')
         <!-- footer -->
         <x-footer />
